@@ -1,7 +1,6 @@
 scalaVersion := "2.13.6"
 
 name := "kbgt"
-organization := "University of Cape Town"
 version := "1.0"
 
 Compile / doc / scalacOptions := Seq("-groups", "-implicits")
